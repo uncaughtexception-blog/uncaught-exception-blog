@@ -1,0 +1,92 @@
+baseurl = "/"
+languageCode = "pt-pt"
+themesDir = "themes"
+theme = "terminal"
+paginate = 5
+defaultContentLanguage = "pt"
+
+[params]
+contentTypeName = "posts"
+
+# if you set this to 0, only submenu trigger will be visible
+showMenuItems = 2
+
+# show selector to switch language
+showLanguageSelector = true
+
+# set theme to full screen width
+fullWidthTheme = false
+
+# center theme with default width
+centerTheme = true
+
+# if your resource directory contains an image called `cover.(jpg|png|webp)`,
+# then the file will be used as a cover automatically.
+# With this option you don't have to put the `cover` param in a front-matter.
+autoCover = true
+
+showLastUpdated = true
+
+[languages]
+[languages.en]
+languageName = "English"
+title = "UNCAUGHT EXCEPTION"
+
+[languages.en.params]
+subtitle = "A blog to comment on the absurdity of the IT world"
+owner = "none.of.your.damn.business"
+keywords = "blog,it,startups,software,engineering,coding,programming"
+copyright = ""
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
+
+[languages.en.params.logo]
+logoText = "UNCAUGHT EXCEPTION"
+logoHomeLink = "/"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+
+
+[languages.pt]
+languageName = "Português"
+title = "UNCAUGHT EXCEPTION"
+
+[languages.pt.params]
+subtitle = "Um blog para comentar o absurdo do mundo de Informática"
+owner = "nao.e.da.tua.conta"
+keywords = "blog,it,startups,software,engenharia,código,programação,informática"
+copyright = ""
+menuMore = "Mostrar mais"
+readMore = "Ler mais"
+readOtherPosts = "Ler outros posts"
+newerPosts = "Posts mais recentes"
+olderPosts = "Posts mais antigos"
+missingContentMessage = "Página não encontrada..."
+missingBackButtonLabel = "Voltar ao Início"
+minuteReadingTime = "min leitura"
+words = "palavras"
+
+[languages.pt.params.logo]
+logoText = "UNCAUGHT EXCEPTION"
+logoHomeLink = "/"
+
+[languages.pt.menu]
+[[languages.pt.menu.main]]
+identifier = "about"
+name = "Sobre"
+url = "/about"
+
+[module]
+[[module.imports]]
+path = 'terminal'

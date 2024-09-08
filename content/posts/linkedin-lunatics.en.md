@@ -1,6 +1,6 @@
 +++
 title = 'LinkedIn Lunatics'
-date = 2024-09-08T09:05:00+01:00
+date = 2024-09-08T09:06:00+01:00
 draft = false
 +++
 
@@ -17,7 +17,7 @@ A LinkedIn lunatic, is typically someone who:
 - Has perspectives of work that ultimately favour the company and makes everyone poorer except those at the top
 - Thinks everyone can invest in stocks or crypto currencies and get wealthy fast
 
-Not all LinkedInLunatics check all of the bullet points. Some do. The most common trait is always an interpretation of the outside world that is completely surreal and out of touch with reality.
+Not all LinkedIn Lunatics check all of the bullet points. Some do. The most common trait is always an interpretation of the outside world that is completely surreal and out of touch with reality.
 
 Given that this post's content is inflammatory (we do it on purpose and we assume it), we'll reject right now any kind of personal attacks to the people who we criticize in this post. Our critics are purely about the ideas that they defend. We don't do personal pesky attacks, because that's worthless.
 

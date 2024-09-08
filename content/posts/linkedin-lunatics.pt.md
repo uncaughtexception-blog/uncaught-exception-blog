@@ -1,6 +1,6 @@
 +++
 title = 'Lunáticos do LinkedIn'
-date = 2024-09-08T09:05:00+01:00
+date = 2024-09-08T09:06:00+01:00
 draft = false
 +++
 

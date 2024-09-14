@@ -8,7 +8,7 @@ Olá a todos.
 
 Há 6 dias atrás, publicamos o nosso post acerca de alguns lunáticos do LinkedIn portugueses. Também fizemos um post na nossa conta de LinkedIn onde demos tag às pessoas mencionadas no post.
 
-Eis que, passado umas horas dessa publicação, a liderança da Bloq.it viu o nosso perfil, bem como o Diogo Mónica da Anchorage Digital. De notar que a Legal Officer da Bloq.it visualizou o nosso perfil, como podem ver neste screenshot: https://imgur.com/a/YH3S5cm.
+Eis que, passado umas horas dessa publicação, a liderança da Bloq.it viu o nosso perfil, bem como o Diogo Mónica da Anchorage Digital. De notar que a Legal Officer da Bloq.it visualizou o nosso perfil, como podem ver neste [screenshot](https://imgur.com/a/YH3S5cm).
 
 Dois dias mais tarde, a nossa conta do LinkedIn tinha sido restrita, bloqueada por um pedido de identificação (como queremos manter-nos anónimos, não podemos proceder). Contactamos o apoio do LinkedIn e ainda aguardamos uma resposta. Tentamos criar uma conta nova, mas reparamos que ninguém conseguia encontrar a conta, nem ver o nosso conteúdo. Foi aí que entendemos que tínhamos levado shadowban no LinkedIn (também estamos em contacto com o LinkedIn para entender melhor a situação e o que fazer).
 

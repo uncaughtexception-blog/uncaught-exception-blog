@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/en/posts/linkedin-account-shadowban/</loc>
+    <lastmod>2024-09-14T09:06:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="//localhost:1313/posts/linkedin-account-shadowban/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/linkedin-account-shadowban/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/posts/</loc>
-    <lastmod>2024-08-25T09:05:00+01:00</lastmod>
+    <lastmod>2024-09-14T09:06:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -13,6 +26,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/</loc>
+    <lastmod>2024-09-14T09:06:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="//localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/posts/linkedin-lunatics/</loc>
+    <lastmod>2024-09-08T09:06:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="//localhost:1313/posts/linkedin-lunatics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/linkedin-lunatics/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/posts/portuguese-culture/</loc>
+    <lastmod>2024-09-08T09:05:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="//localhost:1313/posts/portuguese-culture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/portuguese-culture/"
                 />
   </url><url>
     <loc>//localhost:1313/en/posts/silicon-ponzi-valley/</loc>
@@ -26,19 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/posts/silicon-ponzi-valley/"
-                />
-  </url><url>
-    <loc>//localhost:1313/en/</loc>
-    <lastmod>2024-08-25T09:05:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/"
                 />
   </url><url>
     <loc>//localhost:1313/en/posts/critical-software-august-2024/</loc>

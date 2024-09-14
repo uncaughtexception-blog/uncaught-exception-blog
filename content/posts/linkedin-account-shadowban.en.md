@@ -8,7 +8,7 @@ Hello all.
 
 Six days ago, we published our post about some LinkedIn Lunatics from Portugal. We also made a post on our LinkedIn account where we directly tagged the people we discussed in our post.
 
-A few hours laters, Bloq.it leadership saw our profile, as well as Diogo Mónica from Anchorage Digital. We should note that Bloq.it's Legal Officer was among those from the company who saw our profile, as you can see in this screenshot: https://imgur.com/a/YH3S5cm
+A few hours laters, Bloq.it leadership saw our profile, as well as Diogo Mónica from Anchorage Digital. We should note that Bloq.it's Legal Officer was among those from the company who saw our profile, as you can see in this [screenshot](https://imgur.com/a/YH3S5cm)
 
 Two days later, our LinkedIn account had been restricted, blocked by an ID request. Since we want to keep anonymity, we did not proceed with said request. We contacted LinkedIn's support team and we're still waiting for feedback. We created a second new account, but we noticed that nobody could find it our even see our content. That's when we realized we had been shadow banned by LinkedIn (we're also waiting for their feedback on this to understand the situation better and how to proceed).
 
@@ -18,7 +18,7 @@ Because of this, we decided to change strategies and we published a similar post
 
 We'd like to thank everyone who commented with constructive feedback (positive and negative). Every criticism, suggestion and support messages we receive give us motivation to keep doing what we do.
 
-We'd also like to share that we [contacted Bloq.it]((https://imgur.com/a/9zYotP9)) on the same day and that we didn't receive an answer yet. We sent an e-mail through their company's website contact form. If someone knows of a better way to talk to them, please let us know.
+We'd also like to share that we [contacted Bloq.it](https://imgur.com/a/9zYotP9) on the same day and that we didn't receive an answer yet. We sent an e-mail through their company's website contact form. If someone knows of a better way to talk to them, please let us know.
 
 Until next time,
 _Uncaught Exception Blog_
